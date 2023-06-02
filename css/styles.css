@@ -36,7 +36,8 @@ a {
   color: #4d5ae5;
   text-transform: uppercase;
 }
-.header-logo span {
+
+.logo-span-header {
   color: #2e2f42;
 }
 
@@ -202,7 +203,8 @@ a {
   color: #4d5ae5;
   text-decoration: none;
 }
-.footer-logo span {
+
+.span-logo-fotter {
   color: var(--second-text-color);
 }
 
@@ -238,8 +240,9 @@ a {
 
 .inform-list {
 }
+.inform-link {
+}
 .inform-img {
-  text-decoration: none;
 }
 .inform-subtitle {
   font-weight: 500;
